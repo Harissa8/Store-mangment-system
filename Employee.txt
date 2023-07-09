@@ -1,0 +1,7 @@
+e        f
+EMP1     EMP123
+EMP2     EMP77
+EMP3     HARISSA
+RIDA     RIDA123
+ACHR     UY1244
+Employee Employee
