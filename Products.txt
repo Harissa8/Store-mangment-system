@@ -1,8 +1,0 @@
-Laptop         800    36
-Cover          10     25
-Sticker        2      3
-Mouse          10     30
-Keyboard       8      20
-Charger        15     58
-Iphone         450    80
-r              12     4
